@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **jumaraga/jumaraga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, my name is Arturs
+### Hi there 👋, my name is Josue
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://as2.ftcdn.net/v2/jpg/04/43/70/91/1000_F_443709176_Vpk0mKIoQRoaRhnv6doxU2daxASjUeEn.jpg)
 
