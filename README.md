@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there 👋, my name is Josue
-#### I am GitHub Readme Generator's creator
-
-
 I am a developer passionate the create quality product making use of the lates technologies in web development 
 
 Skills:  REACT /Node.js / MongoDB / Express/SASS
