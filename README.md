@@ -17,16 +17,6 @@ Here are some ideas to get you started:
 ### Hi there 👋, my name is Josue
 I am a developer passionate the create quality product making use of the lates technologies in web development 
 
-Skills:  REACT /Node.js / MongoDB / Express/SASS
+Skills: Next.js / React.js / Node.js / Nest.js / Express/ Tailwind
 
 - 🔭 I’m currently working on this page. 
-
-
- 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jumaraga)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jumaraga&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jumaraga)  
-
